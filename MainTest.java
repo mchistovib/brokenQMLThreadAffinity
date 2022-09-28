@@ -1,5 +1,3 @@
-package ngMvp;
-
 import io.qt.QtPropertyConstant;
 import io.qt.QtPropertyNotify;
 import io.qt.QtPropertyReader;
